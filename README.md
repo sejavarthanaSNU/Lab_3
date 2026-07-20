@@ -1,1 +1,1 @@
-# Git Assignment - Edited By B
+# Lab 3 - Edited by Student B and Student C
