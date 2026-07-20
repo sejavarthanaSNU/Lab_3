@@ -1,8 +1,9 @@
-def register(username, password):
-    if username and password:
-        print("Registration successful")
+def register(username, email, password):
+    if username and email and password:
+        print("User registration successful")
+        print("Welcome,", username)
     else:
-        print("Username and password are required")
+        print("All registration fields are required")
 
 
-register("user", "1234")
+register("student", "student@example.com", "1234")
